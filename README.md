@@ -7,8 +7,10 @@
 - 本游戏使用的游戏引擎为RPGMaker MV，同时参考了**atelierrgss**制作的部分插件，在此一并表示感谢。
 - 本目录中存放的是工程源文件，*不是打包发布之后的成品游戏* 成品游戏下载请移步[Windows版本](https://pan.baidu.com/s/1U83-BoHp1AgpmUVNoyvYPQ)/[Web版本](https://pan.baidu.com/s/1SkyAurWNObJhZtJpQCYEhg)。
 - 参与本次游戏制作的成员有Dian团队队员： 张中洋、伍瀚缘、朱晓光、黄涛、孙紫檀、张子孺、田祺云。对整个制作流程中诸位的贡献与付出致以诚挚的感谢。
-- 如果您准备基于本项目进行改编或是再开发，请务必联系作者张中洋(mirakuruyoo@gmail.com)，并注明出处。
-- 开发者名单简介视频[视频](https://pan.baidu.com/s/1a8hu_RdhV_kShg35NIoLxQ)。
+- 开发者名单简介视频[视频](https://www.bilibili.com/video/av25115108/)。
+- 如果您在游戏过程中发现bug或有想要提出的建议，请直接提出issue或邮件联系我。
+- 如果您准备基于本项目进行改编或是再开发，请务必联系作者张中洋(miracleyoo@163.com)，并注明出处。
+
 
 ### 游戏特征
 - 游戏结合了传统的文字类游戏和RPG游戏的优点，既有文字类游戏式的引导和介绍，又有RPG游戏式的广阔地图可供探索。
