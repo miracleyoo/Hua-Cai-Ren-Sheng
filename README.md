@@ -2,10 +2,10 @@
 华彩人生 -- 一款在华科（华中科技大学）这片神奇土地上展开的奇幻RPG游戏；一款高仿真的华科模拟器。想要了解华科的同学请务必下载来玩哦~相信不会让你失望！ 引擎：RPGMaker MV
 
 ### 声明
+- 本目录中存放的是工程源文件，*不是打包发布之后的成品游戏* 成品游戏下载请移步[Windows版本](https://pan.baidu.com/s/1U83-BoHp1AgpmUVNoyvYPQ)/[Web版本](https://pan.baidu.com/s/1SkyAurWNObJhZtJpQCYEhg)。
 - 本游戏制作组织为华中科技大学Dian团队707工作组，总监制、总策划为707组组长张中洋（miracleyou）。
 - 本游戏的目的是宣传华中科技大学，可以使玩家在游戏过程中熟悉华科的地图，了解华科地标建筑等；但同时，本游戏也兼具强大的可玩性，可供在校同学、毕业校友、以及所有对华科或是本作品有兴趣的同学享用。
 - 本游戏使用的游戏引擎为RPGMaker MV，同时参考了**atelierrgss**制作的部分插件，在此一并表示感谢。
-- 本目录中存放的是工程源文件，*不是打包发布之后的成品游戏* 成品游戏下载请移步[Windows版本](https://pan.baidu.com/s/1U83-BoHp1AgpmUVNoyvYPQ)/[Web版本](https://pan.baidu.com/s/1SkyAurWNObJhZtJpQCYEhg)。
 - 参与本次游戏制作的成员有Dian团队队员： 张中洋、伍瀚缘、朱晓光、黄涛、孙紫檀、张子孺、田祺云。对整个制作流程中诸位的贡献与付出致以诚挚的感谢。
 - 开发者名单简介视频[视频](https://www.bilibili.com/video/av25115108/)。
 - 如果您在游戏过程中发现bug或有想要提出的建议，请直接提出issue或邮件联系我。
